@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+#t {
+  border: 1px solid red;
+}
+
+#t1 {
+  background-color: pink;
+}
+
+#t2 {
+  background-color: yellow;
+}

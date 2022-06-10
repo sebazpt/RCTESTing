@@ -1,0 +1,24 @@
+{
+  "name": "rctest",
+  "version": "1.0.0",
+  "description": "RenascentCode Testing",
+  "main": "index.html",
+  "scripts": {
+    "start": "parcel index.html --open",
+    "build": "parcel build index.html"
+  },
+  "dependencies": {
+    "eslint": "8.17.0",
+    "parcel-bundler": "^1.6.1",
+    "prettier": "2.6.2",
+    "quokka": "0.0.7"
+  },
+  "devDependencies": {
+    "@babel/core": "7.2.0",
+    "typescript": "4.4.4"
+  },
+  "resolutions": {
+    "@babel/preset-env": "7.13.8"
+  },
+  "keywords": []
+}
